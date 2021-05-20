@@ -1,2 +1,3 @@
-# corentin-portfolio
-UX/UI Portfolio made with Angular10 &amp; Gatsby
+# Strapi application
+
+A quick description of your strapi application

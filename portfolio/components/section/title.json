@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_section_titles",
+  "info": {
+    "name": "title",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

@@ -27,6 +27,22 @@
         "section.text",
         "section.title"
       ]
+    },
+    "cardImage": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": true,
+      "pluginOptions": {}
+    },
+    "projectCreation": {
+      "type": "date",
+      "required": true
     }
   }
 }

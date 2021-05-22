@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_contact_links",
+  "info": {
+    "name": "link",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    }
+  }
+}

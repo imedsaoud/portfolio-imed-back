@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_section_statisticals",
+  "info": {
+    "name": "statistical",
+    "icon": "atom"
+  },
+  "options": {},
+  "attributes": {
+    "stats": {
+      "type": "json"
+    }
+  }
+}

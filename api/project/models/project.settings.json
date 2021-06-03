@@ -25,7 +25,8 @@
       "components": [
         "section.image",
         "section.text",
-        "section.title"
+        "section.title",
+        "section.statistical"
       ]
     },
     "cardImage": {

@@ -2,12 +2,18 @@
   "collectionName": "components_contact_links",
   "info": {
     "name": "link",
-    "icon": "address-book"
+    "icon": "address-book",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "link": {
-      "type": "string"
+      "type": "string",
+      "required": true
+    },
+    "linkName": {
+      "type": "string",
+      "required": true
     }
   }
 }

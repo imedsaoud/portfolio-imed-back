@@ -26,7 +26,8 @@
         "section.image",
         "section.text",
         "section.title",
-        "section.statistical"
+        "section.statistical",
+        "section.gallery2"
       ]
     },
     "cardImage": {

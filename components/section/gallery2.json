@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_section_gallery2s",
+  "info": {
+    "name": "gallery2",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "images": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false,
+      "pluginOptions": {}
+    }
+  }
+}

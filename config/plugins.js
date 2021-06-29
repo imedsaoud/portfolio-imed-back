@@ -3,9 +3,9 @@ module.exports = ({ env }) => ({
   upload: {
     provider: 'cloudinary',
     providerOptions: {
-      cloud_name: 'df514sh8t',
-      api_key: '686767448357159',
-      api_secret: 'PYA8IJNyQixOlmWd1fKkrJJx6T0',
+      cloud_name: 'portfolio-imed',
+      api_key: '189552288227292',
+      api_secret: 'ySlexxBObJAG2wAhrcr5cZVBacQ',
     },
   },
 

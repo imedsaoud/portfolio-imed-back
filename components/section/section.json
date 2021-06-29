@@ -45,6 +45,9 @@
     },
     "link": {
       "type": "json"
+    },
+    "subtitle": {
+      "type": "string"
     }
   }
 }
